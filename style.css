@@ -1,0 +1,18 @@
+*{
+    margin-bottom: 10px;
+}
+.test{
+    height: 200px;
+    width: 200px;
+    background: red;
+    margin: auto;
+}
+span{
+    width: 100px;
+    margin: auto;
+    display: block;
+}
+.img-fluid{
+    width: 500px;
+    height: 500px;
+}
